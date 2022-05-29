@@ -16,7 +16,7 @@ body {
   width: 100%;
 }
 
-.eisenhower-matrix-container .eisenhower-matrix-container__more-inf {
+.eisenhower-matrix-container .eisenhower-matrix-container__more-info {
   font-family: fantasy, cursive;
 }
 
@@ -56,7 +56,9 @@ body {
   list-style: none;
 }
 
-.checkbox, .task, .button {
+.checkbox,
+.task,
+.button {
   outline: none;
 }
 
