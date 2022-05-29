@@ -56,7 +56,7 @@ body {
   list-style: none;
 }
 
-.checkbox,.task, .button {
+.checkbox, .task, .button {
   outline: none;
 }
 
